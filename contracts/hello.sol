@@ -6,4 +6,8 @@ contract Demo{
     
     // demo
     
+    function add() public{
+        
+    }
+    
 }
